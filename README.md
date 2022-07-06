@@ -9,6 +9,4 @@ youtube.com/channel/UCgqK2_2hw8aCCDdzFI17ydw
 
 linkedin.com/in/programmerwm
 
-twitter.com/programmerwm_
-
 programmerwm@gmail.com
