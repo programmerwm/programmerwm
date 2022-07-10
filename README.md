@@ -1,7 +1,7 @@
 <h2>Wilfrans Millan</h2>
 <h4>Programmer</h4>
 <p></p>
-My study focus is programming but I need to mention I have a huge respect for mathematics and physics. In the programming world, my passion is computer graphics but I have no problem at all creating other types of software. I'm open to work 100% remotely (worldwide).
+My main activity is computer programming but I need to mention I have a huge respect for mathematics and physics. In the programming world, my passion is computer graphics but I have no problem at all creating other types of software. I'm open to work 100% remotely (worldwide).
 <p></p>
 Contact:<p>
   
