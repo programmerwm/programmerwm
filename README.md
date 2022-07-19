@@ -1,7 +1,9 @@
 <h2>Wilfrans Millan</h2>
 <h4>Programmer</h4>
 <p></p>
-My main activity is programming but I need to mention I have a huge respect for mathematics and physics. In the programming world, my passion is computer graphics but I have no problem at all creating other types of software. 
+The core of my entire existence is: programming, mathematics and physics.
+<p></p>
+Most of the time I work as a programmer. As a programmer I have a passion and that passion is computer graphics. However I have no problem at all creating other type of software. 
 <p></p>
 I'm open to work 100% remotely (worldwide).
 <p></p>
